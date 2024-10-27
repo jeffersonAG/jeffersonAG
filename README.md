@@ -1,6 +1,6 @@
-<div style="background-color: #1e1e1e; color: #dcdcdc; font-family: 'Courier New', Courier, monospace; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
+<div style="background-color: #282c34; color: #ffffff; font-family: 'Courier New', Courier, monospace; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
     <h1 style="font-size: 2.5em; margin: 0; color: #c678dd;">¡Bienvenido a mi GitHub!</h1>
-    <p style="font-size: 1.2em; margin-top: 10px; color: #56b6c2;">Explora mis proyectos de programación y ciberseguridad.</p>
+    <p style="font-size: 1.2em; margin-top: 10px; color: #61afef;">Explora mis proyectos de programación y ciberseguridad.</p>
 </div>
 
 
