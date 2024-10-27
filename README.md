@@ -1,5 +1,5 @@
 <div style="background-color: #0d1117; color: #39ff14; font-family: 'Courier New', Courier, monospace; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0 4px 15px rgba(57, 255, 20, 0.5);">
-    <img src="ruta/a/la/imagen/pixelcut-export (2).png" alt="Imagen de perfil de Hacker" width="100%" align="center"/>
+    <img src="pixelcut-export (2).png" alt="Imagen de perfil de Hacker" width="100%" align="center"/>
 
     <h1 style="font-size: 2.5em; margin: 0; color: #39ff14;">𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙇𝙖𝙗</h1>
     <p style="font-size: 1.2em; margin-top: 10px; color: #00b3b3;">Explora mis proyectos de programación y ciberseguridad.</p>
