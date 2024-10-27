@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Intellij](https://img.shields.io/badge/Eclipse-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Intellij](https://img.shields.io/badge/Intellij-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 ---
 
