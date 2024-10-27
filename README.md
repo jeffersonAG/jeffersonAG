@@ -39,6 +39,8 @@
 
 ⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
 
+⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
+
 <p align="center">
   <a href="https://github.com/jeffersonAG">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeffersonAG&show_icons=true&bg_color=000000&title_color=ff0000&text_color=DC143C&icon_color=ff0000&include_all_commits=true&count_private=true"/>
@@ -49,8 +51,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideNums=DC143C&sideLabels=DC143C&dates=DC143C"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C"/>
 </p>
+
 
 
 
