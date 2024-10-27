@@ -1,27 +1,41 @@
-<div align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white; font-family: 'Courier New', Courier, monospace;">
-    <h1 style="font-size: 2.5em; margin: 0; color: #c678dd;">¡Bienvenido a mi GitHub!</h1>
-    <p style="font-size: 1.2em; color: #61afef;">Explora mis proyectos de programación y ciberseguridad.</p>
+<div style="background-color: #0d1117; color: #39ff14; font-family: 'Courier New', Courier, monospace; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0 4px 15px rgba(57, 255, 20, 0.5);">
+    <h1 style="font-size: 2.5em; margin: 0; color: #39ff14;">𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙇𝙖𝙗</h1>
+    <p style="font-size: 1.2em; margin-top: 10px; color: #00b3b3;">Explora mis proyectos de programación y ciberseguridad.</p>
 </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/>
-<h2 align="left">¡Hola! Soy Jefferson</h2>
+<img alt="Night Coding" src="./assets/hacker-glitch.gif" width='40' align="left"/><h2 align="left" style="color: #39ff14;">𝘏𝘦𝘺 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘑𝘦𝘧𝘧𝘦𝘳𝘴𝘰𝘯</h2>
 
-### 👨🏻‍💻 &nbsp;Acerca de Mí
-💻 &nbsp;Soy estudiante de Ingeniería en Computadores y apasionado por la **ciberseguridad**. Desde que descubrí este fascinante campo, supe que quería dedicarme a proteger sistemas y datos.\
-🛠️ &nbsp;Trabajo principalmente con **Python**, **Java**, **HTML**, y **CSS** y tengo conocimientos en **Kotlin**, **JavaScript**, y **Arduino**. ¡Siempre listo para aprender más!\
-🤝 &nbsp;Si tienes una idea o proyecto en ciberseguridad, ¡me encantaría colaborar!\
-📫 &nbsp;¿Hablamos? Estoy aquí para compartir ideas, aprender y crecer en este emocionante viaje.
+---
 
-### 🛠 &nbsp;Tecnologías y Herramientas
+### 🕶️ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+💻 𝘌𝘯𝘵𝘳𝘦𝘯𝘢𝘥𝘰 𝘱𝘢𝘳𝘢 𝘱𝘳𝘰𝘵𝘦𝘨𝘦𝘳 𝘦𝘭 𝘮𝘶𝘯𝘥𝘰 𝘥𝘦𝘭 𝘤𝘺𝘣𝘦𝘳𝘦𝘴𝘱𝘢𝘤𝘪𝘰.\
+🔍 𝘈𝘥𝘪𝘤𝘵𝘰 𝘢 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦𝘴.\
+🛠️ 𝘏𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦𝘴: Python, Java, HTML, CSS, con nociones de Kotlin, JavaScript y Arduino.\
+🤝 𝘊𝘰𝘭𝘢𝘣𝘰𝘳𝘢𝘤𝘪𝘰𝘯𝘦𝘴: Si tienes un proyecto de ciberseguridad, 𝘭𝘦𝘦𝘵'𝘴 𝘩𝘢𝘤𝘬 𝘪𝘵 𝘵𝘰𝘨𝘦𝘵𝘩𝘦𝘳!
+
+---
+
+### 🛠 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
+
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=%23FF5733)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
-### 📊 &nbsp;Estadísticas de GitHub
+---
+
+### 🕸️ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 & 𝘛𝘰𝘰𝘭𝘴
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+
+---
+
+### ⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
 
 <p align="center">
   <a href="https://github.com/jeffersonAG">
@@ -36,17 +50,13 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&theme=dark&hide_border=true"/>
 </p>
 
-### 🤝🏻 &nbsp;Conecta Conmigo
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-Jefferson%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/-Jefferson-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
 ---
 
+### 🐍 𝘾𝙤𝙢𝙢𝙞𝙩𝙨 𝙀𝙣 𝘼𝙘𝙘𝙞𝙤́𝙣
+
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake animation" />
+  <a href="https://github.com/jeffersonAG">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  </a>
 </div>
 
