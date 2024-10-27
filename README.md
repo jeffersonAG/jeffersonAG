@@ -1,4 +1,4 @@
-## Hi there 👋
+¡Hola! Soy programador y estudiante de Ingeniería en Computadores. Desde que descubrí la ciberseguridad, me he apasionado por proteger sistemas y datos. Estoy aprendiendo constantemente sobre vulnerabilidades y automatización, y disfruto crear proyectos que desafían mis habilidades. Trabajo con Python, Java, JavaScript, HTML y CSS, y tengo conocimientos básicos en Kotlin y Arduino. Estoy en busca de oportunidades para crecer en esta emocionante rama. ¡Siempre listo para nuevos desafíos!
 
 <!--
 **jeffersonAG/jeffersonAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
