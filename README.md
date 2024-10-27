@@ -1,4 +1,4 @@
-🌟 ¡Hola, mundo! Soy Jefferson, un entusiasta programador y estudiante de Ingeniería en Computadores, con una gran pasión por la ciberseguridad. Desde el primer momento en que me adentré en este fascinante campo, supe que quería dedicarme a proteger sistemas y datos del mundo digital.
+🌟 ¡Holaaa! Soy Jefferson, un entusiasta programador y estudiante de Ingeniería en Computadores, con una gran pasión por la ciberseguridad. Desde el primer momento en que me adentré en este fascinante campo, supe que quería dedicarme a proteger sistemas y datos del mundo digital.
 
 🔍 Mis herramientas: Me muevo con soltura en Python, Java, HTML y CSS, y también tengo un pie en el mundo de Kotlin , JavaScript y Arduino. ¡Estoy siempre listo para aprender algo nuevo!
 
