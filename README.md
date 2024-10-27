@@ -11,8 +11,8 @@
 
 ### 🕶️ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
-💻 𝘌𝘯𝘵𝘳𝘦𝘯𝘢𝘥𝘰 𝘱𝘢𝘳𝘢 𝘱𝘳𝘰𝘵𝘦𝘨𝘦𝘳 𝘦𝘭 𝘮𝘶𝘯𝘥𝘰 𝘥𝘦𝘭 𝘤𝘺𝘣𝘦𝘳𝘦𝘴𝘱𝘢𝘤𝘪𝘰.\
-🔍 𝘈𝘥𝘪𝘤𝘵𝘰 𝘢 𝘦𝘯𝘤𝘰𝘯𝘵𝘳𝘢𝘳 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦𝘴.\
+💻 Estudiante de Ingenieria en Computadores  .\
+🔍 Apasionado en el mundo de la Seguridad Cibernetica .\
 🛠️ 𝘏𝘢𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦𝘴: Python, Java, HTML, CSS, con nociones de Kotlin, JavaScript y Arduino.\
 🤝 𝘊𝘰𝘭𝘢𝘣𝘰𝘳𝘢𝘤𝘪𝘰𝘯𝘦𝘴: Si tienes un proyecto de ciberseguridad, 𝘭𝘦𝘦𝘵'𝘴 𝘩𝘢𝘤𝘬 𝘪𝘵 𝘵𝘰𝘨𝘦𝘵𝘩𝘦𝘳!
 
@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Intellij](https://img.shields.io/badge/Eclipse-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 ---
 
