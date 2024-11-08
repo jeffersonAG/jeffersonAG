@@ -65,14 +65,17 @@
 
 
 ---
-### 💻 Hacker Style
+### 🖥️ **Commits: Estilo Hacker**
 
 <div align="center">
   <a href="https://github.com/jeffersonAG">
-    <img 
-      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-      alt="Animación estilo hacker de commits"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://your-custom-hacker-animation-dark.svg">
+      <img 
+        src="https://your-custom-hacker-animation-light.svg" 
+        alt="Animación estilo hacker mostrando commits subidos" 
+      />
+    </picture>
   </a>
 </div>
 
