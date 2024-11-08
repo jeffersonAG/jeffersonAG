@@ -31,7 +31,7 @@
 ---
 
 ### 🕸️ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 & 𝘛𝘰𝘰𝘭𝘴
-![SQL](https://img.shields.io/badge/SQL-%23F05033.svg?style=for-the-badge&logo=SQLlogoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%23F05033.svg?style=for-the-badge&logo=sqllogoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
