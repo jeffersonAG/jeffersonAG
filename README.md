@@ -32,9 +32,9 @@
 
 ### 🕸️ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 & 𝘛𝘰𝘰𝘭𝘴
 
-![SQL](https://img.shields.io/badge/SQL-#F05033.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-#F05033.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![SQL Oracle](https://img.shields.io/badge/SQL-#F05033.svg?style=for-the-badge&logo=&logoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![SQL Oracle](https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-%23007396.svg?style=for-the-badge&logo=java&logoColor=%23FF5733)&nbsp;
@@ -45,7 +45,7 @@
 ---
 ### Operating System 
 ![windows](https://img.shields.io/badge/windows-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
 ⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
