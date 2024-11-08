@@ -31,6 +31,7 @@
 ---
 
 ### 🕸️ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴 & 𝘛𝘰𝘰𝘭𝘴
+![SQL](https://img.shields.io/badge/SQL-%23F05033.svg?style=for-the-badge&logo=git&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -39,6 +40,10 @@
 ![Intellij](https://img.shields.io/badge/Intellij-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 ---
+---
+### Operating System 
+![windows](https://img.shields.io/badge/windows-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
 ⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
