@@ -47,6 +47,7 @@
 ![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
+---
 ⚙️ 𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
 
 <p align="center">
@@ -62,20 +63,19 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C"/>
 </p>
 
-
-
 ---
-### 🐍 **Commits en Acción**
-
+### 💻 Commits
 <div align="center">
   <a href="https://github.com/jeffersonAG">
     <img 
-      src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" 
-      alt="Animación de una serpiente que muestra los commits en acción"
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+      alt="Animación estilo hacker de commits"
     />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://your-custom-hacker-animation-dark.svg">
+      <img 
+        src="https://your-custom-hacker-animation-light.svg" 
+      />
+    </picture>
   </a>
 </div>
-
-
-
-
