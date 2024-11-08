@@ -65,7 +65,7 @@
 
 
 ---
-### 🖥️ **Commits: Estilo Hacker**
+### 🖥️ Commits
 
 <div align="center">
   <a href="https://github.com/jeffersonAG">
@@ -78,5 +78,6 @@
     </picture>
   </a>
 </div>
+
 
 
