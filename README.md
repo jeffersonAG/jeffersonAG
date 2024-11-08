@@ -42,7 +42,6 @@
 ![Intellij](https://img.shields.io/badge/Intellij-%232C5263.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 ---
----
 ### Operating System 
 ![windows](https://img.shields.io/badge/windows-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -65,15 +64,16 @@
 
 
 
-
-
 ---
 
-### 🐍 𝘾𝙤𝙢𝙢𝙞𝙩𝙨 𝙀𝙣 𝘼𝙘𝙘𝙞𝙤́𝙣
+### 🐍 **Commits en Acción**
 
 <div align="center">
   <a href="https://github.com/jeffersonAG">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+    <img 
+      src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" 
+      alt="Animación de una serpiente que muestra los commits en acción"
+    />
   </a>
 </div>
 
