@@ -67,15 +67,14 @@
 ---
 ### 🖥️ Commits
 
+
+
 <div align="center">
   <a href="https://github.com/jeffersonAG">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://your-custom-hacker-animation-dark.svg">
-      <img 
-        src="https://your-custom-hacker-animation-light.svg" 
-        alt="Animación estilo hacker mostrando commits subidos" 
-      />
-    </picture>
+    <img 
+      src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" 
+      alt="Animación de una serpiente que muestra los commits en acción"
+    />
   </a>
 </div>
 
