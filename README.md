@@ -45,6 +45,8 @@
 ### Operating System 
 ![windows](https://img.shields.io/badge/windows-%23F05033.svg?style=for-the-badge&logo=Color=white)&nbsp;
 ![Kali Linux ](https://img.shields.io/badge/Kali_Linux-%23121011.svg?style=for-the-badge&logo=Color=white)&nbsp;
+![Arch Linux ](https://img.shields.io/badge/Arch_Linux-%23121011.svg?style=for-the-badge&logo=Color=white)&nbsp;
+
 
 
 ---
