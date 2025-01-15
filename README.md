@@ -62,8 +62,11 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C" alt="GitHub Streak" />
+  <a href="https://github.com/jeffersonAG">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 
