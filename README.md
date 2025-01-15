@@ -54,15 +54,15 @@
 
 <p align="center">
   <a href="https://github.com/jeffersonAG">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeffersonAG&show_icons=true&bg_color=000000&title_color=ff0000&text_color=DC143C&icon_color=ff0000&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonAG&show_icons=true&bg_color=000000&title_color=ff0000&text_color=DC143C&icon_color=ff0000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/jeffersonAG">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeffersonAG&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=DC143C" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonAG&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=DC143C" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonAG&background=000000&border=DC143C&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=DC143C" alt="GitHub Streak" />
 </p>
 
 
